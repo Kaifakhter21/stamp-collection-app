@@ -1,0 +1,9 @@
+id,name,year,country,category,extra
+1,King George VI,1937,United Kingdom,Definitive,0.5
+2,Queen Elizabeth II,1953,United Kingdom,Definitive,1.0
+3,Space Exploration,1969,United States,Commemorative,Apollo 11
+4,Royal Wedding,1981,United Kingdom,Commemorative,Charles & Diana
+5,Victorian Era,1880,United Kingdom,Used,London
+6,Early 1900s,1905,France,Used,Paris
+7,Modern UK,2020,United Kingdom,Mint,false
+8,Olympic Games,2016,Brazil,Mint,true
